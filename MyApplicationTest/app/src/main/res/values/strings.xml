@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Application Test</string>
+    <String name="PrimeiroApp">Primeiro APP</String>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="senha_invalida">Senha Inválida</string>
+    <string name="usuario_invalido">Usuário Invalido</string>
+</resources>
